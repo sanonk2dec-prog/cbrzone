@@ -1,5 +1,0 @@
-pandas==2.2.3
-pandas-stubs==3.0.0.260204
-
-SQLAlchemy==2.0.44
-streamlit==1.44.1
